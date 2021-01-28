@@ -32,3 +32,4 @@ parent.Touched:Connect(function(hit)
 	wait(waitTime)
 	isReady = true
 end)
+--ss
